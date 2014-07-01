@@ -22,4 +22,6 @@ test:
 
 production:
   <<: *default
+  username: v.sathishkumar1984@gmail.com
+  password: sachin@01
   database: my_database_production
